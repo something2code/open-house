@@ -1,3 +1,8 @@
 Hello World!
 
 Welcome to Zuitt Open House!
+
+Topics in this ZOH:
+1. Git Basics
+2. HTML
+3. CSS
