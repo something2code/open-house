@@ -1,0 +1,73 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Tahoma", sans-serif;
+}
+body {
+	background-color: BlanchedAlmond;
+}
+nav {
+	padding: 16px;
+	margin-bottom: 4px;
+	background-color: Beige;
+	text-align: center;
+}
+.nav-link {
+	margin: 0 10px;
+	color: black;
+}
+a {
+	text-decoration: none;
+}
+#landing {
+	text-align: center;
+}
+#profile {
+	width: 300px;
+	margin: 20px 0;
+	border-radius: 50%;
+}
+#name {
+	margin: 10px 0;
+}
+#title {
+	margin: 10px 0;
+}
+#intro {
+	width: 200px;
+	margin: auto;
+}
+#tools {
+	text-align: center;
+	margin: 20px 0;
+}
+#tools-title {
+	margin: 10px 0;
+}
+#tools-img {
+	width: 100px;
+	height: 100px;
+	margin: 0 10px;
+	border-radius: 5px;
+}
+#projects {
+	text-align: center;
+}
+.card {
+	background-color: BlanchedAlmond;
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+}
+.card-img {
+	height: 300px;
+	width: 300px;
+	border-radius: 10px;
+}
+#contact {
+	text-align: center;
+	padding: 16px;
+	margin-top: 4px;
+	background-color: Beige;
+}
